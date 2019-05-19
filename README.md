@@ -1,6 +1,6 @@
 # chris_python_work
 
-## How to use
+## How to use
 
 TODO?
 
