@@ -6,7 +6,7 @@ import Mein
 def main():
     P = match.create_random_points(30)
     R = Mein.heuristica(P)
-    return visual.Window(rectangles=R, points=P)
+    return visual.Window(rectangles=R, points=P) and 200 * len(R) / n
 
 
 if __name__ == '__main__':
